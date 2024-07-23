@@ -11,3 +11,10 @@ int main() {
     cout<<"AND:"<<A<<endl<<"OR:"<<O<<endl<<"XOR:"<<X<<endl<<"NOT:"<<N<<endl<<"LEFT SHIFT:"<<LS<<endl<<"RIGHT SHIFT:"<<RS;
     return 0;
 }
+/*
+AND:1
+OR:7
+XOR:6
+NOT:-6
+LEFT SHIFT:20
+RIGHT SHIFT:1*/
